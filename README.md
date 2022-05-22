@@ -5,4 +5,4 @@ This tutorial focuses mainly on using GitHub as its remote.
 
 This repository is built step by step in the tutorial.
 
-It now includes stepr for GitHub
+It now includes steps for GitHub
